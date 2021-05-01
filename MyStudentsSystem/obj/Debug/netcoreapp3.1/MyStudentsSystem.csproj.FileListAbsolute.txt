@@ -1,0 +1,13 @@
+E:\我的Net实践程序\MyStudentsSystem\MyStudentsSystem\bin\Debug\netcoreapp3.1\MyStudentsSystem.exe
+E:\我的Net实践程序\MyStudentsSystem\MyStudentsSystem\bin\Debug\netcoreapp3.1\MyStudentsSystem.deps.json
+E:\我的Net实践程序\MyStudentsSystem\MyStudentsSystem\bin\Debug\netcoreapp3.1\MyStudentsSystem.runtimeconfig.json
+E:\我的Net实践程序\MyStudentsSystem\MyStudentsSystem\bin\Debug\netcoreapp3.1\MyStudentsSystem.runtimeconfig.dev.json
+E:\我的Net实践程序\MyStudentsSystem\MyStudentsSystem\bin\Debug\netcoreapp3.1\MyStudentsSystem.dll
+E:\我的Net实践程序\MyStudentsSystem\MyStudentsSystem\bin\Debug\netcoreapp3.1\MyStudentsSystem.pdb
+E:\我的Net实践程序\MyStudentsSystem\MyStudentsSystem\obj\Debug\netcoreapp3.1\MyStudentsSystem.csprojAssemblyReference.cache
+E:\我的Net实践程序\MyStudentsSystem\MyStudentsSystem\obj\Debug\netcoreapp3.1\MyStudentsSystem.AssemblyInfoInputs.cache
+E:\我的Net实践程序\MyStudentsSystem\MyStudentsSystem\obj\Debug\netcoreapp3.1\MyStudentsSystem.AssemblyInfo.cs
+E:\我的Net实践程序\MyStudentsSystem\MyStudentsSystem\obj\Debug\netcoreapp3.1\MyStudentsSystem.csproj.CoreCompileInputs.cache
+E:\我的Net实践程序\MyStudentsSystem\MyStudentsSystem\obj\Debug\netcoreapp3.1\MyStudentsSystem.dll
+E:\我的Net实践程序\MyStudentsSystem\MyStudentsSystem\obj\Debug\netcoreapp3.1\MyStudentsSystem.pdb
+E:\我的Net实践程序\MyStudentsSystem\MyStudentsSystem\obj\Debug\netcoreapp3.1\MyStudentsSystem.genruntimeconfig.cache
